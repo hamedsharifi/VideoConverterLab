@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VideoConverterLab</string>
+    <string name="open_gallery">Open Gallery</string>
 </resources>
